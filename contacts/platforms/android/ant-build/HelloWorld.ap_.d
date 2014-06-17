@@ -33,6 +33,7 @@
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/res \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/css \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/phonegap.js \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/fonts \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/cordova.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec.html \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/config.xml \
@@ -102,8 +103,15 @@
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/res/screen/tizen/README.md \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/res/screen/blackberry/screen-225.png \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/res/screen/webos/screen-64.png \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/css/ratchet-theme-ios.min.css \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/css/index.css \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/css/ratchet.min.css \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/fonts/ratchicons.eot \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/fonts/ratchicons.ttf \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/fonts/ratchicons.svg \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/fonts/ratchicons.woff \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/img/logo.png \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/js/ratchet.min.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/js/index.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec/helper.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec/lib \
