@@ -40,6 +40,7 @@
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/img \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/icon.png \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/js \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/pages \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/cordova_plugins.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/res/icon \
@@ -112,7 +113,9 @@
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/fonts/ratchicons.woff \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/img/logo.png \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/js/ratchet.min.js \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/js/jquery.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/js/index.js \
+/home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/pages/contacts.html \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec/helper.js \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec/lib \
 /home/rafael/Agilez/contacts-phonegap-ratchet-angularjs/contacts/platforms/android/assets/www/spec/index.js \
