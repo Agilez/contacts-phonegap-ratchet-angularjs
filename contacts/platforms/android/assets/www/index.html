@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html data-ng-app="pomidoroApp">
     <head>
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
@@ -11,34 +11,41 @@
     </head>
     <body>
 
-        <header class="bar bar-nav">
-          <a class="icon icon-refresh pull-right"></a>
-          <h1 class="title">Dashboard</h1>
-        </header>
 
-        <div class="bar bar-footer">
-          <a class="icon icon-compose pull-right" href="#composeModal"></a>
-        </div>
+    <style type="text/css">
 
-        <div class="content">
-          <ul class="table-view">
-            <li class="table-view-cell media">
-              <a class="navigate-right" href="pages/contacts.html" data-transition="slide-in">
-                <span class="media-object icon icon-pages pull-left"></span>
-                <div class="media-body">
-                  All inboxes
-                </div>
-              </a>
-            </li>
-          </ul>
-        </div>
+      /* Angular.js animated navigation */
+      .slide-enter,
+      .slide-leave
+      {
+        -webkit-transition: 300ms cubic-bezier(0.075, 0.820, 0.165, 1.000) all;
+        -moz-transition: 300ms cubic-bezier(0.075, 0.820, 0.165, 1.000) all;
+        -ms-transition: 300ms cubic-bezier(0.075, 0.820, 0.165, 1.000) all;
+        -o-transition: 300ms cubic-bezier(0.075, 0.820, 0.165, 1.000) all;
+        transition: 300ms cubic-bezier(0.075, 0.820, 0.165, 1.000) all;
+      }
 
-        <script type="text/javascript" src="phonegap.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript" src="js/ratchet.min.js"></script>
-        <script type="text/javascript" src="js/jquery.js"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
+      .slide-enter {
+        left: 100%;
+      }
+      .slide-enter.slide-enter-active {
+        left: 0px;
+      }
+
+      .slide-leave {}
+
+      .slide-leave.slide-leave-active{
+      left: -200px;
+      }
+
+    </style>
+
+
+    <!-- placeholder for view markup -->
+    <div ng-view ng-animate="'slide'"></div>
+
+      <script type="text/javascript" src="js/ratchet.min.js"></script>
+      <script type="text/javascript" src="js/angular.js"></script>
+      <script type="text/javascript" src="js/app.js"></script>
     </body>
 </html>
